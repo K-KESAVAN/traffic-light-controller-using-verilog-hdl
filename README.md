@@ -1,4 +1,4 @@
-# traffic-light-controller-using-verilog-hdl
+
 🚦 Traffic Light Controller using Verilog HDL
 📌 Project Overview
 This project implements a Traffic Light Controller using Verilog HDL and is simulated in ModelSim. The system operates using a Finite State Machine (FSM) to control traffic lights in a single direction.
